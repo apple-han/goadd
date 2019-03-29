@@ -5,10 +5,6 @@ Goadd: Add Folder To Gopath™
 
 - Go development environment: >= **go1.2**
 
-## Installation
-
-We use [gobuild](http://gobuild.io) to do online cross-platform compiling work.  You can see the full available binary list [here](http://gobuild.io/gpmgo/gopm/).
-
 ### Install from source code
 
     go get -u github.com/gpmgo/gopm
