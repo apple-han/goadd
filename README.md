@@ -20,7 +20,7 @@ The executable will be produced under `$GOPATH/bin` in your file system; for glo
 
 - Add folder to gopath.
 - Easy to find files under gopath 
-
+```
 $ goadd
 NAME:
    Goadd - Add Folder To GoPath
@@ -39,7 +39,7 @@ COMMANDS:
 GLOBAL OPTIONS:
    --help, -h           show help
    --version, -v        print the version
-
+```
 ## License
 
 This project is under the Apache License, Version 2.0. See the [LICENSE](LICENSE) file for the full license text.
