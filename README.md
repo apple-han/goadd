@@ -28,7 +28,7 @@ VERSION:
    0.0.1 Beta
 
 COMMANDS:
-   run          goadd run
+   run          add a new folder, and add to gopath
    list         list all files of gopath
    help, h      Shows a list of commands or help for one command
 
