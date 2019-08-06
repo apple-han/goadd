@@ -7,7 +7,7 @@ Goadd: Add Folder To Gopath™
 
 ### Install from source code
 
-    go get -u github.com/apple-han/goadd/
+    go get -u github.com/apple-han/goadd
 
 
 The executable will be produced under `$GOPATH/bin` in your file system; for global use purpose, we recommend you to add this path into your `PATH` environment variable.
